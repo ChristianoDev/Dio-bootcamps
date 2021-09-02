@@ -1,2 +1,2 @@
-#  Repositório do desafio de projeto sobre Git/Github da DIO
+#  Repositório de estudos e  códigos  dos bootcamps Dio
 Desafio de projeto da DIO sobre GIT/GITHub
